@@ -1,4 +1,10 @@
-## K_chongs GIT
+![header](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvYhpN%2FbtsKV0ADLH1%2FADkV3P16EkTdyfQkg0FAGk%2Fimg.png)
+<br/>
+
+<h2>K_chong</h2> 
+BackEnd 개발자 
+
+> JAVA, Spring
 
 <a href="https://github.com/devxb/gitanimals">
 <img
